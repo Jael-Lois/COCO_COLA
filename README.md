@@ -4,3 +4,5 @@
 <img src = "https://github.com/Jael-Lois/COCO_COLA/blob/main/coca_cola.png">
 Object
 <img src = "https://github.com/Jael-Lois/COCO_COLA/blob/main/cococola.png">
+
+# Thanks to Pixxo 3d 😀
